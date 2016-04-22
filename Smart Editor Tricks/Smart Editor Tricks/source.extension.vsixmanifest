@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="Smart_Editor_Tricks.Julio Goldschmidt.0e42defa-867f-4bbe-97b3-ff60139a496a" Version="1.0" Language="en-US" Publisher="Julio Goldschmidt" />
+    <Identity Id="Smart_Editor_Tricks.Julio Goldschmidt.0e42defa-867f-4bbe-97b3-ff60139a496a" Version="1.4" Language="en-US" Publisher="Julio Goldschmidt" />
     <DisplayName>Smart_Editor_Tricks</DisplayName>
     <Description xml:space="preserve">Allow to put an caret on next ocurrence of an selected word at in Visual Studio.</Description>
     <MoreInfo>https://github.com/JulioGold/Smart-Editor-Tricks</MoreInfo>

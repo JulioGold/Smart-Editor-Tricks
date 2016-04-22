@@ -22,7 +22,7 @@ Look those imagens to see how it works ;D
 This extension needs some improvements, feel free to contribute and help to take it better.  
   
 ## Changelog
-- 1.0
+- 1.4
     - Project start from [SmartNextOcurrence](https://github.com/JulioGold/SmartNextOcurrence)
     - **Ctrl + D** feature
     - **Alt + Left Click** feature

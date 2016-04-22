@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+  <Metadata>
+    <Identity Id="Smart_Editor_Tricks.Julio Goldschmidt.0e42defa-867f-4bbe-97b3-ff60139a496a" Version="1.0" Language="en-US" Publisher="Julio Goldschmidt" />
+    <DisplayName>Smart_Editor_Tricks</DisplayName>
+    <Description xml:space="preserve">Allow to put an caret on next ocurrence of an selected word at in Visual Studio.</Description>
+    <MoreInfo>https://github.com/JulioGold/Smart-Editor-Tricks</MoreInfo>
+    <Tags>smart, multi, cursor, multiedit multi edit simultaneous editing, Caret, multi edit, multi caret, multiple carets, split into lines, multi cursor</Tags>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0]" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.MefComponent" d:Source="Project" d:ProjectName="%CurrentProject%" Path="|%CurrentProject%|" />
+  </Assets>
+</PackageManifest>
